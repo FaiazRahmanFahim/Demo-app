@@ -10,7 +10,7 @@
     "newArchEnabled": true,
     "ios": {
       "config": {
-        "googleMapsApiKey": "AIzaSyAm-glVCWV1ScUX-3GrVKhrcpslIojwCmg"
+        "googleMapsApiKey": ""
       },
       "supportsTablet": true
     },
@@ -22,7 +22,7 @@
       "edgeToEdgeEnabled": true,
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyAm-glVCWV1ScUX-3GrVKhrcpslIojwCmg"
+          "apiKey": ""
         }
       }
     },
